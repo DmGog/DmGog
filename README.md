@@ -11,7 +11,7 @@
 - Next.js
 ## Проекты
 - [Приложение фонд помощи нуждающимся "Забота рядом" на vite+react+ts+mui, пет-проект](https://github.com/DmGog/project-caring-nearby) 
-- [Игра "Catch the Offer", на html, css, JavaScript (Vanilla)](https://github.com/DmGog/Game-Catch-The-Offer) ,  [деплой](https://dmgog.github.io/Game-Catch-The-Offer/)
+- [Игра "Catch the Offer", на css, JavaScript (Vanilla)](https://github.com/DmGog/Game-Catch-The-Offer) ,  [деплой](https://dmgog.github.io/Game-Catch-The-Offer/)
 - [Приложение "Task Flow" на webpack+react+ts+mui, пет-проект](https://github.com/DmGog/TaskFlow) ,  [деплой](https://dmgog.github.io/TaskFlow/#/login)
 - [Сайт "Портфолио" на webpack+react+styled components, пет-проект](https://github.com/DmGog/portfolio) ,  [деплой](https://dmgog.github.io/portfolio/)
 
